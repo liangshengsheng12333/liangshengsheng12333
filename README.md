@@ -5,7 +5,7 @@
 
 <!-- 动态打字机 -->
 <a href="https://github.com/liangshengsheng12333">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1100&color=3B82F6&center=true&vCenter=true&width=720&lines=CS+Undergrad+%26+Developer+%7C+C%2B%2B20+%2F+WASM+%2F+TypeScript+%2F+Python;%E5%9C%A8%E6%A0%A1%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA+%E2%80%A2+%E5%86%99%E7%AE%97%E6%B3%95%E3%80%81%E5%81%9A%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E3%80%81%E5%88%9B%E4%BD%9C%E4%BA%A4%E4%BA%92%E7%BD%91%E9%A1%B5;Building+STARBREAK+%26+Practical+Agent+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1100&color=3B82F6&center=true&vCenter=true&width=760&lines=CS+Undergrad+%26+Developer+%7C+C%2B%2B20+%2F+WASM+%2F+TypeScript+%2F+Python;%E5%9C%A8%E8%AF%BB%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB+%E2%80%A2+%E5%86%99%E7%B3%BB%E7%BB%9F%E7%AE%97%E6%B3%95%E3%80%81%E5%81%9A%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E3%80%81%E6%8A%98%E8%85%BE%E4%BA%A4%E4%BA%92%E7%BD%91%E9%A1%B5;Building+STARBREAK+%26+Practical+Skills" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,50 +20,50 @@
 
 # 🇨🇳 关于我
 
-坐标天津，在校软件工程/计算机相关专业码农。平时主力写 **C++、Python 和前端**，课余自己在做**独立游戏**，也写了不少用来驯服大模型干活的 **Agent Skills**。
+坐标天津，在读计算机系学生，平时主力写 **C++、Python 和前端**，课余自己在做**独立游戏**，最近也在折腾用来约束大模型干活的 **Agent Skills**。
 
-写代码比较偏向实用主义，不太喜欢套现成壳子应付交差，更习惯顺着身边碰到的实际问题或者突然冒出来的脑洞，从零把东西搭出来跑通。
+写项目比较看重能不能真正跑通落地。平时遇到顺手的痛点或者冒出什么脑洞，习惯不靠现成空壳凑数，直接从零把核心逻辑写出来验证。
 
 ### 🔧 平时在写的几个方向
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 软件工程与性能强迫症</h4>
+      <h4>💻 C++ / WASM 与性能执念</h4>
       <p>
-        为了解决学校食堂预算和营养配比问题，嫌维护服务器麻烦，直接用 <b>C++20</b> 写了个规划求解内核，编译成 <b>WebAssembly</b> 塞进微信小程序离线跑。
+        学校食堂点餐选菜算不过来，又不想为了这点需求去租和维护后端服务器，于是用 <b>C++20</b> 写了个营养与预算求解器，编译成 <b>WebAssembly</b> 直接塞进微信小程序离线算。
       </p>
       <p>
-        初版状态空间爆炸跑一次卡 23 秒，花几天重写了网格状态桶和剪枝边界后压到了 <b>71ms</b>。为了吃顿食堂饭写到这个程度，大概属于码农职业病。
+        初版因为状态空间爆炸跑一次要 23 秒，花几天把网格状态桶和剪枝边界重写一遍后压到了 <b>71ms</b>。为了一顿食堂饭调到毫秒级，大概算是码农常见职业病。
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🎮 独立游戏 · 《碎星：绝响》</h4>
+      <h4>🎮 独立游戏《碎星：绝响》</h4>
       <p>
-        写纯业务或工具代码久了总想造点不一样的东西，于是业余单开了一条独立游戏线，自己在做原创作品 <b>《碎星：绝响》（STARBREAK）</b>。
+        写多了工具类代码，还是想亲手做出点有完整体验的东西，所以业余单开了一条独立游戏线，在做原创作品 <b>《碎星：绝响》（STARBREAK）</b>。
       </p>
       <p>
-        从世界观设定、数值平衡到交互手感，策划和实现基本一个人包圆。目前代码还在私有库里持续打磨原型，不赶工期，图个完整做出自己想玩的游戏。
+        从世界观文案、数值框架到操作手感都在自己慢慢磨。项目目前放在私有仓库里推进原型，不赶工期，先把核心玩法打磨扎实。
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 交互网页与视觉创作</h4>
+      <h4>🌐 交互网页与视觉实验</h4>
       <p>
-        看腻了满大街一模一样的后台管理模板，偶尔想做点有交互感、视觉干净的网页。之前做了个叫 <b><a href="https://github.com/liangshengsheng12333/jincai-ruhua">《津彩入画》</a></b> 的网站，把天津杨柳青木版年画搬进了 HTML5 Canvas。
+        不太想把前端作品写成千篇一律的管理后台，之前做了个叫 <b><a href="https://github.com/liangshengsheng12333/jincai-ruhua">《津彩入画》</a></b> 的纯前端网站，把天津杨柳青木版年画的工艺搬进了 HTML5 Canvas。
       </p>
       <p>
-        访客可以在页面上走完选稿、套印、彩绘到钤印的全流程。技术之外，还是希望能写出点让人愿意多点两下的有趣界面。
+        打开网页就能走完选稿、套版、填色到钤印的整套流程。除了把逻辑写对，我也蛮在意界面交互能不能让人多点两下、觉得有意思。
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 用工程手段管住 AI</h4>
+      <h4>🤖 用工程规范约束 AI</h4>
       <p>
-        日常重度用 AI 辅助开发和查资料，但受不了模型动不动乱改上下文、写论文瞎编文献。与其反复调 Prompt，不如直接写脚本和规范立规矩。
+        日常高频拿大模型辅助写代码和查资料，但实在受不了模型动辄丢失上下文、写长文时自己编文献。光靠改 Prompt 很难彻底压住幻觉，后来干脆写脚本和规则文件来硬约束。
       </p>
       <p>
-        为此写了带本地审校和知网/OpenAlex 文献检索的 <b><a href="https://github.com/liangshengsheng12333/humanities-writing">《人文写作与学术论证》</a></b>，以及配合 Obsidian 协作使用的 <b><a href="https://github.com/liangshengsheng12333/liangsheng-workflow-friend">《凉笙工作流》</a></b> 和 <b><a href="https://github.com/liangshengsheng12333/liangsheng-theater">《凉笙歌剧院》</a></b>。
+        现在开源出来的 <b><a href="https://github.com/liangshengsheng12333/humanities-writing">《人文写作与学术论证》</a></b>（带本地保守审校和知网/OpenAlex 文献查验），以及配合 Obsidian 用的 <b><a href="https://github.com/liangshengsheng12333/liangsheng-workflow-friend">《凉笙工作流》</a></b> 和 <b><a href="https://github.com/liangshengsheng12333/liangsheng-theater">《凉笙歌剧院》</a></b>，都是顺手攒下来的工具。
       </p>
     </td>
   </tr>
@@ -90,7 +90,7 @@
 
 | 仓库 | 定位 | 核心内容 |
 | :--- | :--- | :--- |
-| 🍽️ **[tianke-canteen-planner](https://github.com/liangshengsheng12333/tianke-canteen-planner)** | C++20 WASM | 校园食堂配餐小程序。纯 C++ 算法内核编译进微信沙箱离线执行，网格 DP 优化提速 330 倍至 71ms。 |
+| 🍽️ **[tianke-canteen-planner](https://github.com/liangshengsheng12333/tianke-canteen-planner)** | C++20 WASM | 校园食堂配餐小程序。纯 C++ 算法内核编译进微信沙箱离线执行，网格 DP 优化提速约 330 倍至 71ms。 |
 | ✍️ **[humanities-writing](https://github.com/liangshengsheng12333/humanities-writing)** | Agent Skill Python | 约束大模型防幻觉与去套话的写作技能，配套离线保守审校脚本、多源文献检索及 27 项自动化测试。 |
 | 🎨 **[jincai-ruhua](https://github.com/liangshengsheng12333/jincai-ruhua)** | Web Canvas | 杨柳青年画互动体验网站，在浏览器中还原选画、套印、彩绘与钤印工序。 |
 | 🎭 **[liangsheng-theater](https://github.com/liangshengsheng12333/liangsheng-theater) & [workflow](https://github.com/liangshengsheng12333/liangsheng-workflow-friend)** | AI 工作流 效率插件 | 面向工程研发的多智能体协作流与角色调度插件，负责需求确认、任务依赖派发与进度恢复。 |
@@ -100,11 +100,11 @@
 
 ---
 
-### 💬 关于开源
+### 💬 为什么开始整理 GitHub
 
-以前写完不少项目都直接留在本地硬盘或私有库里，最近开始花时间洗代码、补文档，一点点搬到 GitHub 上。
+之前写完的不少小项目和脚本一直散在本地硬盘或者私有库里，最近借着整理作品集的机会，开始把代码洗干净、补齐文档和测试，陆续放到 GitHub 上。
 
-希望能在开源俱乐部里多认识点同好，平时一起 Review 代码、切磋点工程上的怪点子，或者聊聊独立游戏和 AI 的新玩法。如果对上面哪个项目感兴趣，欢迎随时提 Issue 或发邮件到 liangshengsheng06@gmail.com。
+想在开源俱乐部里多认识些同样喜欢折腾技术的朋友，平时一起做做 Code Review、聊点工程上的奇思妙想，或者交流独立游戏和 AI 工具链的做法。对上面哪个库有想法的话，欢迎提 Issue 或者发邮件到 liangshengsheng06@gmail.com。
 
 ---
 
@@ -115,16 +115,14 @@
 
 <br/>
 
-Hey, I'm **Liang Sheng (凉笙)**, a CS undergrad and developer based in Tianjin, China.
+I'm **Liang Sheng (凉笙)**, a CS undergraduate and developer based in Tianjin, China. I spend most of my coding time on **C++, Python, and TypeScript**, building a solo indie game on the side and scripting deterministic **Agent Skills** for LLM workflows.
 
-I spend most of my coding hours working with **C++, Python, and Web technologies**, building an indie game on the side, and scripting **Agent Skills** to keep LLMs predictable in real workflows.
+- **Systems & Performance**: For **[tianke-canteen-planner](https://github.com/liangshengsheng12333/tianke-canteen-planner)**, I wanted zero server maintenance, so I wrote a **C++20** meal-planning solver and compiled it to **WebAssembly** inside a WeChat MiniProgram. Rewriting the DP table with grid bucketing and pruning brought runtime down from ~23s to 71ms.
+- **Indie Game Dev**: Outside utility tools, I am building ***STARBREAK: The Final Resonance*** in a private repo, handling worldbuilding, mechanics, and game feel myself.
+- **Creative Web**: Instead of standard CRUD dashboards, I enjoy interactive visual pages. **[jincai-ruhua](https://github.com/liangshengsheng12333/jincai-ruhua)** brings traditional Yangliuqing woodblock printmaking onto HTML5 Canvas.
+- **Grounded AI Tooling**: Rather than trusting ad-hoc prompts, I pair LLM workflows with explicit constraints and Python checks in **[humanities-writing](https://github.com/liangshengsheng12333/humanities-writing)** (27 automated tests + CNKI/OpenAlex verification), **[liangsheng-theater](https://github.com/liangshengsheng12333/liangsheng-theater)**, **[liangsheng-workflow](https://github.com/liangshengsheng12333/liangsheng-workflow-friend)**, and an **[Obsidian starter](https://github.com/liangshengsheng12333/obsidian-codex-knowledge-base-starter)**.
 
-- **Systems & Performance**: In **[tianke-canteen-planner](https://github.com/liangshengsheng12333/tianke-canteen-planner)**, I didn't want to maintain a backend just to compute campus meal plans, so I wrote a **C++20** solver and compiled it to **WebAssembly** inside a WeChat MiniProgram. Cut the solve time from 23.46s down to 71ms via grid-bucketized dynamic programming and pruning.
-- **Indie Game Dev**: When I get tired of pure utility apps, I work on ***STARBREAK: The Final Resonance*** — an original indie game sitting in a private repo where I handle mechanics, story, and player feel solo.
-- **Creative Web**: I prefer building playful interactive pages over boilerplate admin panels. In **[jincai-ruhua](https://github.com/liangshengsheng12333/jincai-ruhua)**, I brought traditional Chinese woodblock printing onto HTML5 Canvas.
-- **Taming AI Workflows**: Instead of relying on fragile ad-hoc prompting, I write explicit rules and Python CLIs — including **[humanities-writing](https://github.com/liangshengsheng12333/humanities-writing)** (evidence-strict writing skill with citation lookup and 27 tests), **[liangsheng-theater](https://github.com/liangshengsheng12333/liangsheng-theater)**, **[liangsheng-workflow](https://github.com/liangshengsheng12333/liangsheng-workflow-friend)**, and an **[Obsidian starter](https://github.com/liangshengsheng12333/obsidian-codex-knowledge-base-starter)**.
-
-Always happy to chat about systems engineering, indie games, or practical AI tooling. Feel free to drop a line!
+Always glad to swap notes on C++ tooling, indie games, or practical AI engineering. Feel free to reach out!
 
 </details>
 
@@ -146,5 +144,5 @@ Always happy to chat about systems engineering, indie games, or practical AI too
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" />
-  <sub>Keep Coding, Keep Dreaming · Liang Sheng (凉笙)</sub>
+  <sub>Built in Tianjin · Liang Sheng (凉笙)</sub>
 </div>
