@@ -5,7 +5,7 @@
 
 <!-- 动态打字机 -->
 <a href="https://github.com/liangshengsheng12333">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+C%2B%2B20+%2F+WebAssembly+%2F+Python+%2F+TypeScript;%E5%8D%8E%E5%8C%97%E4%BA%94%E7%9C%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%8F%91%E8%80%85+%E2%80%A2+%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E3%80%81%E4%BA%A4%E4%BA%92%E7%BD%91%E9%A1%B5%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F;Building+LingoCue%2C+STARBREAK+%26+Applied+Agent+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+C%2B%2B20+%2F+WebAssembly+%2F+Python+%2F+TypeScript;Indie+Game+Developer+%7C+Building+STARBREAK;Applied+AI+Engineering+%7C+Agent+Skills+%26+Developer+Workflows" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,13 +19,11 @@
 
 ---
 
-### 👨‍💻 个人简介与技术履历 (Profile & Background)
+### 👨‍💻 个人简介 (Profile Summary)
 
-天津科技大学计算机相关专业在读开发者，主攻**高性能系统架构、算法优化、现代交互式 Web 图形学与端侧 AI 工程化应用**。
+专注于系统工程、算法优化、现代 Web 交互及 AI 工程化落地。在高性能计算（C++20 / WebAssembly）、原创独立游戏架构、前沿 Web 交互应用以及多智能体（Agent Skills）确定性工具链开发领域拥有多项完整落地项目经验。
 
-在校期间持续推进工程实践与赛事研发，曾作为团队核心系统开发者参加**华北五省（市、自治区）及港澳台大学生计算机应用大赛**（移动互联网应用创新赛道）以及**全国大学生职业规划大赛**。具备从需求建模、算法内核攻坚、多端编译部署（WASM/Android/MiniProgram）到自动化测试集构建的全流程工程落地能力。
-
-坚持“以指标说话、以工程规范立足”，所有核心项目均配备自动化回归测试、量化 Benchmark 或生产级部署验证。
+注重代码工程质量、模块化解耦与可量化的性能指标，坚持以工程规范与自动化测试驱动交付。
 
 ---
 
