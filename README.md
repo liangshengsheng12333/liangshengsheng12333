@@ -22,7 +22,7 @@
 
 ### 👨‍💻 个人简介 (About Me)
 
-你好，我是**任潇宇（凉笙）**，目前是天津科技大学 2025 级软件工程本科在读学生。
+你好，我是**凉笙（凉笙）**，目前是天津科技大学 2025 级软件工程本科在读学生。
 
 在学习与开发路径上，我坚持**“计算机底层理论（面向 408）夯实 + 现代 AI 协同敏捷开发（AI-Assisted / Vibe Coding）”**的双轨模式：
 - **善用工具，但不做黑盒搬运工**：坚守**“AI 辅助生成的每一行代码，自己必须逐行彻底理解底层逻辑与语法”**的开发底线。
@@ -129,7 +129,7 @@
 
 <br/>
 
-**Liang Sheng (任潇宇)** is an undergraduate software engineering student (Class of 2025) at Tianjin University of Science and Technology (TUST), China. 
+**Liang Sheng (凉笙)** is an undergraduate software engineering student (Class of 2025) at Tianjin University of Science and Technology (TUST), China. 
 
 He adopts an **AI-assisted engineering workflow (Vibe Coding)** grounded in rigorous engineering practices:
 - **Understand Every Line**: Strictly adheres to fully verifying and understanding every line of AI-assisted code before committing.
